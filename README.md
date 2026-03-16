@@ -22,11 +22,9 @@ This is a framework that can be quickly adapted to any theme (clicker, game, ser
 - Job Changes
 
 ### 🚀 How to Run the Project
-1. Clone the repository: `git clone https://github.com/твое-имя/Clicker-Starter-Kit.git`
+1. Clone the repository: `git clone https://github.com/miumilt/Clicker-Starter-Kit.git`
 2. Install dependencies: `npm install`
 3. Run the project: `npm run dev`
 
 ---
 *Built for rapid development of gaming Mini Apps.*
-
-Translated with DeepL.com (free version)
