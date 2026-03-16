@@ -6,7 +6,8 @@ This is a framework that can be quickly adapted to any theme (clicker, game, ser
 ### 📱 What it looks like
 
 
-<img src="Game.gif" width="400">
+<img src="Game.gif" width="400"> <img src="Game3.gif" width="400"> 
+
 
 
 ### 🛠 Technology stack
